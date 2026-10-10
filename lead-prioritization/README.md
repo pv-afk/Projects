@@ -32,6 +32,13 @@
 - 20% — Extra-Trees LightGBM;
 - 30% — CatBoost.
 
+## Запуск
 
+Данные соревнования (`train.csv`, `test.csv`, `events.csv`) в репозиторий не входят — их нужно положить в папку `data/`.
 
+```bash
+pip install -r requirements.txt
+python solution_v2.py --data-dir data --output submission_v2.csv
+```
 
+`solution_v2.py` использует функции из `solution.py`; ноутбук `lead_prioritization_solution_v2.ipynb` повторяет решение пошагово.

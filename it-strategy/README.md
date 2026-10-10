@@ -35,9 +35,4 @@ Python, pandas, NumPy, Matplotlib, seaborn, Jupyter Notebook.
 ## Структура
 
 - `strategy.ipynb` — расчёты, графики и рекомендации;
-- `strategy.html` — статическая версия анализа;
-- `digital_maturity_survey.csv` — результаты опроса;
-- `ПРАКТИЧЕCКАЯ РАБОТА 3.pdf` — оформленный отчёт.
-
-
-
+- `digital_maturity_survey.csv` — результаты опроса.
